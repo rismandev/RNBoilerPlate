@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'RNBoilerPlate60' do
-  # Pods for RNBoilerPlate60
+target 'ReactBoilerPlatinum' do
+  # Pods for ReactBoilerPlatinum
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -34,7 +34,7 @@ target 'RNBoilerPlate60' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'RNBoilerPlate60Tests' do
+  target 'ReactBoilerPlatinumTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -42,10 +42,10 @@ target 'RNBoilerPlate60' do
   use_native_modules!
 end
 
-target 'RNBoilerPlate60-tvOS' do
-  # Pods for RNBoilerPlate60-tvOS
+target 'ReactBoilerPlatinum-tvOS' do
+  # Pods for ReactBoilerPlatinum-tvOS
 
-  target 'RNBoilerPlate60-tvOSTests' do
+  target 'ReactBoilerPlatinum-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

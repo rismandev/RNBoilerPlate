@@ -7,23 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* RNBoilerPlate60Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RNBoilerPlate60Tests.m */; };
+		00E356F31AD99517003FC87E /* ReactBoilerPlatinumTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ReactBoilerPlatinumTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		164CF5402DA2D9B750E3473E /* libPods-RNBoilerPlate60Tests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 368B3D5D0EC9FEF9362BB34A /* libPods-RNBoilerPlate60Tests.a */; };
+		164CF5402DA2D9B750E3473E /* libPods-ReactBoilerPlatinumTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 368B3D5D0EC9FEF9362BB34A /* libPods-ReactBoilerPlatinumTests.a */; };
 		1B0C867733B64063A68DAEA5 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 768F8D6991FA4396B9D4C207 /* FontAwesome5_Regular.ttf */; };
 		1F6666B3607D4FE1818F6A0D /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E84608A1968046C9A9BD26C3 /* Fontisto.ttf */; };
 		2A91E59478934BB78D828C1C /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D59FBEA62384465ABC51371E /* FontAwesome5_Brands.ttf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* RNBoilerPlate60Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RNBoilerPlate60Tests.m */; };
-		3137DD4336F0AD70E3781157 /* libPods-RNBoilerPlate60.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 37FD6C54EBF91F88D2A1725C /* libPods-RNBoilerPlate60.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* ReactBoilerPlatinumTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* ReactBoilerPlatinumTests.m */; };
+		3137DD4336F0AD70E3781157 /* libPods-ReactBoilerPlatinum.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 37FD6C54EBF91F88D2A1725C /* libPods-ReactBoilerPlatinum.a */; };
 		3938141EEFD942FEA16AEA63 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CCA33AE2E48E49C1A097B513 /* Ionicons.ttf */; };
 		3A9BC21205B34DDA92737663 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E18093DCCAF34E1B9C4E2B9A /* Foundation.ttf */; };
-		40BC87E49DBF4AADB0947638 /* libPods-RNBoilerPlate60-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DEB2E18F174F499555127D75 /* libPods-RNBoilerPlate60-tvOS.a */; };
+		40BC87E49DBF4AADB0947638 /* libPods-ReactBoilerPlatinum-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DEB2E18F174F499555127D75 /* libPods-ReactBoilerPlatinum-tvOS.a */; };
 		45A69851B32D4C07B4B9938D /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 128E7D3A3AA04E8AB28C4202 /* Zocial.ttf */; };
 		4A05C9AAEDC34C88B008355A /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4A7C68DA3AC947B98643E8CD /* Feather.ttf */; };
 		4D7D732325E343B1B33BFE3D /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 94385F4E4B8141358C001B5C /* AntDesign.ttf */; };
@@ -32,7 +32,7 @@
 		75E5E1DDCF4A44C6A5FD91F2 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B5D687D6DFAD4912872E7A60 /* EvilIcons.ttf */; };
 		83C8CAC2802D4AE2BD511EF7 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 337D1153FF69470C89EA214F /* FontAwesome.ttf */; };
 		854F629E32CB4522B78CC604 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 861A167463014067BFA613C2 /* MaterialIcons.ttf */; };
-		9F2278EAB5D3B42A21A1B443 /* libPods-RNBoilerPlate60-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 13CB376C04B14B83CD08105C /* libPods-RNBoilerPlate60-tvOSTests.a */; };
+		9F2278EAB5D3B42A21A1B443 /* libPods-ReactBoilerPlatinum-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 13CB376C04B14B83CD08105C /* libPods-ReactBoilerPlatinum-tvOSTests.a */; };
 		E34BEBD6815044DABE54AFFD /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BF036853D7654BC199E6E485 /* SimpleLineIcons.ttf */; };
 		E85F2F6461FA405281753E3F /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A846A5CDB5B34BC5A2B3572B /* Entypo.ttf */; };
 		F9C4B3B2DBCA4BC19CD92109 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AC698EFD8434F0FB35A5D73 /* MaterialCommunityIcons.ttf */; };
@@ -44,59 +44,59 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = RNBoilerPlate60;
+			remoteInfo = ReactBoilerPlatinum;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "RNBoilerPlate60-tvOS";
+			remoteInfo = "ReactBoilerPlatinum-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* RNBoilerPlate60Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RNBoilerPlate60Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* ReactBoilerPlatinumTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReactBoilerPlatinumTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* RNBoilerPlate60Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNBoilerPlate60Tests.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* ReactBoilerPlatinumTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ReactBoilerPlatinumTests.m; sourceTree = "<group>"; };
 		0AC698EFD8434F0FB35A5D73 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		128E7D3A3AA04E8AB28C4202 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* RNBoilerPlate60.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RNBoilerPlate60.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = RNBoilerPlate60/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = RNBoilerPlate60/AppDelegate.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* ReactBoilerPlatinum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ReactBoilerPlatinum.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = ReactBoilerPlatinum/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = ReactBoilerPlatinum/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = RNBoilerPlate60/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = RNBoilerPlate60/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = RNBoilerPlate60/main.m; sourceTree = "<group>"; };
-		13CB376C04B14B83CD08105C /* libPods-RNBoilerPlate60-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNBoilerPlate60-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2379A22684CE4A10CD0BB54D /* Pods-RNBoilerPlate60.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNBoilerPlate60.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RNBoilerPlate60/Pods-RNBoilerPlate60.debug.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* RNBoilerPlate60-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RNBoilerPlate60-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* RNBoilerPlate60-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RNBoilerPlate60-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ReactBoilerPlatinum/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = ReactBoilerPlatinum/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = ReactBoilerPlatinum/main.m; sourceTree = "<group>"; };
+		13CB376C04B14B83CD08105C /* libPods-ReactBoilerPlatinum-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactBoilerPlatinum-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2379A22684CE4A10CD0BB54D /* Pods-ReactBoilerPlatinum.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactBoilerPlatinum.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ReactBoilerPlatinum/Pods-ReactBoilerPlatinum.debug.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* ReactBoilerPlatinum-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ReactBoilerPlatinum-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* ReactBoilerPlatinum-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "ReactBoilerPlatinum-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		337D1153FF69470C89EA214F /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
-		368B3D5D0EC9FEF9362BB34A /* libPods-RNBoilerPlate60Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNBoilerPlate60Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		37FD6C54EBF91F88D2A1725C /* libPods-RNBoilerPlate60.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNBoilerPlate60.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		368B3D5D0EC9FEF9362BB34A /* libPods-ReactBoilerPlatinumTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactBoilerPlatinumTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		37FD6C54EBF91F88D2A1725C /* libPods-ReactBoilerPlatinum.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactBoilerPlatinum.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A7C68DA3AC947B98643E8CD /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
 		4EA6E24341BF47958774C35F /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
-		5B19B327E3A2C49B7FFEF2D9 /* Pods-RNBoilerPlate60.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNBoilerPlate60.release.xcconfig"; path = "Pods/Target Support Files/Pods-RNBoilerPlate60/Pods-RNBoilerPlate60.release.xcconfig"; sourceTree = "<group>"; };
+		5B19B327E3A2C49B7FFEF2D9 /* Pods-ReactBoilerPlatinum.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactBoilerPlatinum.release.xcconfig"; path = "Pods/Target Support Files/Pods-ReactBoilerPlatinum/Pods-ReactBoilerPlatinum.release.xcconfig"; sourceTree = "<group>"; };
 		768F8D6991FA4396B9D4C207 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
 		861A167463014067BFA613C2 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		94385F4E4B8141358C001B5C /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
-		97071AAD44FB8A3DB1A53059 /* Pods-RNBoilerPlate60-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNBoilerPlate60-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RNBoilerPlate60-tvOSTests/Pods-RNBoilerPlate60-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		A1E7D3AE67F7F43A08E7844D /* Pods-RNBoilerPlate60-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNBoilerPlate60-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-RNBoilerPlate60-tvOS/Pods-RNBoilerPlate60-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		A325B07226F824DDE2C493F2 /* Pods-RNBoilerPlate60-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNBoilerPlate60-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RNBoilerPlate60-tvOS/Pods-RNBoilerPlate60-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		A7C210A5F0153DDABFDD6277 /* Pods-RNBoilerPlate60-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNBoilerPlate60-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RNBoilerPlate60-tvOSTests/Pods-RNBoilerPlate60-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		97071AAD44FB8A3DB1A53059 /* Pods-ReactBoilerPlatinum-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactBoilerPlatinum-tvOSTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ReactBoilerPlatinum-tvOSTests/Pods-ReactBoilerPlatinum-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		A1E7D3AE67F7F43A08E7844D /* Pods-ReactBoilerPlatinum-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactBoilerPlatinum-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-ReactBoilerPlatinum-tvOS/Pods-ReactBoilerPlatinum-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		A325B07226F824DDE2C493F2 /* Pods-ReactBoilerPlatinum-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactBoilerPlatinum-tvOS.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ReactBoilerPlatinum-tvOS/Pods-ReactBoilerPlatinum-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		A7C210A5F0153DDABFDD6277 /* Pods-ReactBoilerPlatinum-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactBoilerPlatinum-tvOSTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ReactBoilerPlatinum-tvOSTests/Pods-ReactBoilerPlatinum-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		A846A5CDB5B34BC5A2B3572B /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		B5D687D6DFAD4912872E7A60 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
-		B8A489053B8D3851DEAF2FED /* Pods-RNBoilerPlate60Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNBoilerPlate60Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RNBoilerPlate60Tests/Pods-RNBoilerPlate60Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		B8A489053B8D3851DEAF2FED /* Pods-ReactBoilerPlatinumTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactBoilerPlatinumTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ReactBoilerPlatinumTests/Pods-ReactBoilerPlatinumTests.debug.xcconfig"; sourceTree = "<group>"; };
 		BF036853D7654BC199E6E485 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		CCA33AE2E48E49C1A097B513 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		D59FBEA62384465ABC51371E /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
 		D747C7E9B14F427BA1F55F3B /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
-		DEB2E18F174F499555127D75 /* libPods-RNBoilerPlate60-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNBoilerPlate60-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DEB2E18F174F499555127D75 /* libPods-ReactBoilerPlatinum-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ReactBoilerPlatinum-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E18093DCCAF34E1B9C4E2B9A /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
 		E84608A1968046C9A9BD26C3 /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
-		EA96869F1C542CE0F91D7158 /* Pods-RNBoilerPlate60Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNBoilerPlate60Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RNBoilerPlate60Tests/Pods-RNBoilerPlate60Tests.release.xcconfig"; sourceTree = "<group>"; };
+		EA96869F1C542CE0F91D7158 /* Pods-ReactBoilerPlatinumTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ReactBoilerPlatinumTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ReactBoilerPlatinumTests/Pods-ReactBoilerPlatinumTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -106,7 +106,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				164CF5402DA2D9B750E3473E /* libPods-RNBoilerPlate60Tests.a in Frameworks */,
+				164CF5402DA2D9B750E3473E /* libPods-ReactBoilerPlatinumTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -114,7 +114,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3137DD4336F0AD70E3781157 /* libPods-RNBoilerPlate60.a in Frameworks */,
+				3137DD4336F0AD70E3781157 /* libPods-ReactBoilerPlatinum.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -122,7 +122,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				40BC87E49DBF4AADB0947638 /* libPods-RNBoilerPlate60-tvOS.a in Frameworks */,
+				40BC87E49DBF4AADB0947638 /* libPods-ReactBoilerPlatinum-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -130,20 +130,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9F2278EAB5D3B42A21A1B443 /* libPods-RNBoilerPlate60-tvOSTests.a in Frameworks */,
+				9F2278EAB5D3B42A21A1B443 /* libPods-ReactBoilerPlatinum-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* RNBoilerPlate60Tests */ = {
+		00E356EF1AD99517003FC87E /* ReactBoilerPlatinumTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* RNBoilerPlate60Tests.m */,
+				00E356F21AD99517003FC87E /* ReactBoilerPlatinumTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = RNBoilerPlate60Tests;
+			path = ReactBoilerPlatinumTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -154,7 +154,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* RNBoilerPlate60 */ = {
+		13B07FAE1A68108700A75B9A /* ReactBoilerPlatinum */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -165,7 +165,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = RNBoilerPlate60;
+			name = ReactBoilerPlatinum;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -173,10 +173,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				37FD6C54EBF91F88D2A1725C /* libPods-RNBoilerPlate60.a */,
-				DEB2E18F174F499555127D75 /* libPods-RNBoilerPlate60-tvOS.a */,
-				13CB376C04B14B83CD08105C /* libPods-RNBoilerPlate60-tvOSTests.a */,
-				368B3D5D0EC9FEF9362BB34A /* libPods-RNBoilerPlate60Tests.a */,
+				37FD6C54EBF91F88D2A1725C /* libPods-ReactBoilerPlatinum.a */,
+				DEB2E18F174F499555127D75 /* libPods-ReactBoilerPlatinum-tvOS.a */,
+				13CB376C04B14B83CD08105C /* libPods-ReactBoilerPlatinum-tvOSTests.a */,
+				368B3D5D0EC9FEF9362BB34A /* libPods-ReactBoilerPlatinumTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -184,14 +184,14 @@
 		3BE1388385452B4B9685AF6C /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				2379A22684CE4A10CD0BB54D /* Pods-RNBoilerPlate60.debug.xcconfig */,
-				5B19B327E3A2C49B7FFEF2D9 /* Pods-RNBoilerPlate60.release.xcconfig */,
-				A325B07226F824DDE2C493F2 /* Pods-RNBoilerPlate60-tvOS.debug.xcconfig */,
-				A1E7D3AE67F7F43A08E7844D /* Pods-RNBoilerPlate60-tvOS.release.xcconfig */,
-				97071AAD44FB8A3DB1A53059 /* Pods-RNBoilerPlate60-tvOSTests.debug.xcconfig */,
-				A7C210A5F0153DDABFDD6277 /* Pods-RNBoilerPlate60-tvOSTests.release.xcconfig */,
-				B8A489053B8D3851DEAF2FED /* Pods-RNBoilerPlate60Tests.debug.xcconfig */,
-				EA96869F1C542CE0F91D7158 /* Pods-RNBoilerPlate60Tests.release.xcconfig */,
+				2379A22684CE4A10CD0BB54D /* Pods-ReactBoilerPlatinum.debug.xcconfig */,
+				5B19B327E3A2C49B7FFEF2D9 /* Pods-ReactBoilerPlatinum.release.xcconfig */,
+				A325B07226F824DDE2C493F2 /* Pods-ReactBoilerPlatinum-tvOS.debug.xcconfig */,
+				A1E7D3AE67F7F43A08E7844D /* Pods-ReactBoilerPlatinum-tvOS.release.xcconfig */,
+				97071AAD44FB8A3DB1A53059 /* Pods-ReactBoilerPlatinum-tvOSTests.debug.xcconfig */,
+				A7C210A5F0153DDABFDD6277 /* Pods-ReactBoilerPlatinum-tvOSTests.release.xcconfig */,
+				B8A489053B8D3851DEAF2FED /* Pods-ReactBoilerPlatinumTests.debug.xcconfig */,
+				EA96869F1C542CE0F91D7158 /* Pods-ReactBoilerPlatinumTests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -206,9 +206,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* RNBoilerPlate60 */,
+				13B07FAE1A68108700A75B9A /* ReactBoilerPlatinum */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* RNBoilerPlate60Tests */,
+				00E356EF1AD99517003FC87E /* ReactBoilerPlatinumTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				3BE1388385452B4B9685AF6C /* Pods */,
@@ -222,10 +222,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* RNBoilerPlate60.app */,
-				00E356EE1AD99517003FC87E /* RNBoilerPlate60Tests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* RNBoilerPlate60-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* RNBoilerPlate60-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* ReactBoilerPlatinum.app */,
+				00E356EE1AD99517003FC87E /* ReactBoilerPlatinumTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* ReactBoilerPlatinum-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* ReactBoilerPlatinum-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -256,9 +256,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* RNBoilerPlate60Tests */ = {
+		00E356ED1AD99517003FC87E /* ReactBoilerPlatinumTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "RNBoilerPlate60Tests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ReactBoilerPlatinumTests" */;
 			buildPhases = (
 				04AC0077AD30B4D020E05B82 /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -270,14 +270,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = RNBoilerPlate60Tests;
-			productName = RNBoilerPlate60Tests;
-			productReference = 00E356EE1AD99517003FC87E /* RNBoilerPlate60Tests.xctest */;
+			name = ReactBoilerPlatinumTests;
+			productName = ReactBoilerPlatinumTests;
+			productReference = 00E356EE1AD99517003FC87E /* ReactBoilerPlatinumTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* RNBoilerPlate60 */ = {
+		13B07F861A680F5B00A75B9A /* ReactBoilerPlatinum */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "RNBoilerPlate60" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ReactBoilerPlatinum" */;
 			buildPhases = (
 				9007CB917FE798FF71880C03 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -291,14 +291,14 @@
 			);
 			dependencies = (
 			);
-			name = RNBoilerPlate60;
-			productName = RNBoilerPlate60;
-			productReference = 13B07F961A680F5B00A75B9A /* RNBoilerPlate60.app */;
+			name = ReactBoilerPlatinum;
+			productName = ReactBoilerPlatinum;
+			productReference = 13B07F961A680F5B00A75B9A /* ReactBoilerPlatinum.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* RNBoilerPlate60-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* ReactBoilerPlatinum-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RNBoilerPlate60-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactBoilerPlatinum-tvOS" */;
 			buildPhases = (
 				E11D17C54E0A88B73E71C7FB /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -311,14 +311,14 @@
 			);
 			dependencies = (
 			);
-			name = "RNBoilerPlate60-tvOS";
-			productName = "RNBoilerPlate60-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* RNBoilerPlate60-tvOS.app */;
+			name = "ReactBoilerPlatinum-tvOS";
+			productName = "ReactBoilerPlatinum-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* ReactBoilerPlatinum-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* RNBoilerPlate60-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* ReactBoilerPlatinum-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RNBoilerPlate60-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactBoilerPlatinum-tvOSTests" */;
 			buildPhases = (
 				7074B3EF4A420C5F4E267200 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -330,9 +330,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "RNBoilerPlate60-tvOSTests";
-			productName = "RNBoilerPlate60-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* RNBoilerPlate60-tvOSTests.xctest */;
+			name = "ReactBoilerPlatinum-tvOSTests";
+			productName = "ReactBoilerPlatinum-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* ReactBoilerPlatinum-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -362,7 +362,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "RNBoilerPlate60" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ReactBoilerPlatinum" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -376,10 +376,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* RNBoilerPlate60 */,
-				00E356ED1AD99517003FC87E /* RNBoilerPlate60Tests */,
-				2D02E47A1E0B4A5D006451C7 /* RNBoilerPlate60-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* RNBoilerPlate60-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* ReactBoilerPlatinum */,
+				00E356ED1AD99517003FC87E /* ReactBoilerPlatinumTests */,
+				2D02E47A1E0B4A5D006451C7 /* ReactBoilerPlatinum-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* ReactBoilerPlatinum-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -460,7 +460,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-RNBoilerPlate60Tests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ReactBoilerPlatinumTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -487,7 +487,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-RNBoilerPlate60/Pods-RNBoilerPlate60-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-ReactBoilerPlatinum/Pods-ReactBoilerPlatinum-resources.sh",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -526,7 +526,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-RNBoilerPlate60/Pods-RNBoilerPlate60-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-ReactBoilerPlatinum/Pods-ReactBoilerPlatinum-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		7074B3EF4A420C5F4E267200 /* [CP] Check Pods Manifest.lock */ = {
@@ -540,7 +540,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-RNBoilerPlate60-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ReactBoilerPlatinum-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -558,7 +558,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-RNBoilerPlate60-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ReactBoilerPlatinum-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -576,7 +576,7 @@
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-RNBoilerPlate60-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-ReactBoilerPlatinum-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -620,7 +620,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* RNBoilerPlate60Tests.m in Sources */,
+				00E356F31AD99517003FC87E /* ReactBoilerPlatinumTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -646,7 +646,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* RNBoilerPlate60Tests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* ReactBoilerPlatinumTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -655,12 +655,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* RNBoilerPlate60 */;
+			target = 13B07F861A680F5B00A75B9A /* ReactBoilerPlatinum */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* RNBoilerPlate60-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* ReactBoilerPlatinum-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -672,7 +672,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = RNBoilerPlate60;
+			path = ReactBoilerPlatinum;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -680,14 +680,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B8A489053B8D3851DEAF2FED /* Pods-RNBoilerPlate60Tests.debug.xcconfig */;
+			baseConfigurationReference = B8A489053B8D3851DEAF2FED /* Pods-ReactBoilerPlatinumTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = RNBoilerPlate60Tests/Info.plist;
+				INFOPLIST_FILE = ReactBoilerPlatinumTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -697,17 +697,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RNBoilerPlate60.app/RNBoilerPlate60";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactBoilerPlatinum.app/ReactBoilerPlatinum";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EA96869F1C542CE0F91D7158 /* Pods-RNBoilerPlate60Tests.release.xcconfig */;
+			baseConfigurationReference = EA96869F1C542CE0F91D7158 /* Pods-ReactBoilerPlatinumTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = RNBoilerPlate60Tests/Info.plist;
+				INFOPLIST_FILE = ReactBoilerPlatinumTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -717,19 +717,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RNBoilerPlate60.app/RNBoilerPlate60";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactBoilerPlatinum.app/ReactBoilerPlatinum";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2379A22684CE4A10CD0BB54D /* Pods-RNBoilerPlate60.debug.xcconfig */;
+			baseConfigurationReference = 2379A22684CE4A10CD0BB54D /* Pods-ReactBoilerPlatinum.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
 				DEVELOPMENT_TEAM = 3GRZB23L29;
-				INFOPLIST_FILE = RNBoilerPlate60/Info.plist;
+				INFOPLIST_FILE = ReactBoilerPlatinum/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -737,19 +737,19 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = RNBoilerPlate60;
+				PRODUCT_NAME = ReactBoilerPlatinum;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B19B327E3A2C49B7FFEF2D9 /* Pods-RNBoilerPlate60.release.xcconfig */;
+			baseConfigurationReference = 5B19B327E3A2C49B7FFEF2D9 /* Pods-ReactBoilerPlatinum.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 3GRZB23L29;
-				INFOPLIST_FILE = RNBoilerPlate60/Info.plist;
+				INFOPLIST_FILE = ReactBoilerPlatinum/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -757,14 +757,14 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = RNBoilerPlate60;
+				PRODUCT_NAME = ReactBoilerPlatinum;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A325B07226F824DDE2C493F2 /* Pods-RNBoilerPlate60-tvOS.debug.xcconfig */;
+			baseConfigurationReference = A325B07226F824DDE2C493F2 /* Pods-ReactBoilerPlatinum-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -775,14 +775,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "RNBoilerPlate60-tvOS/Info.plist";
+				INFOPLIST_FILE = "ReactBoilerPlatinum-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.RNBoilerPlate60-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ReactBoilerPlatinum-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -792,7 +792,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A1E7D3AE67F7F43A08E7844D /* Pods-RNBoilerPlate60-tvOS.release.xcconfig */;
+			baseConfigurationReference = A1E7D3AE67F7F43A08E7844D /* Pods-ReactBoilerPlatinum-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -803,14 +803,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "RNBoilerPlate60-tvOS/Info.plist";
+				INFOPLIST_FILE = "ReactBoilerPlatinum-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.RNBoilerPlate60-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ReactBoilerPlatinum-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -820,7 +820,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 97071AAD44FB8A3DB1A53059 /* Pods-RNBoilerPlate60-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 97071AAD44FB8A3DB1A53059 /* Pods-ReactBoilerPlatinum-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -830,24 +830,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "RNBoilerPlate60-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "ReactBoilerPlatinum-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.RNBoilerPlate60-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ReactBoilerPlatinum-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RNBoilerPlate60-tvOS.app/RNBoilerPlate60-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactBoilerPlatinum-tvOS.app/ReactBoilerPlatinum-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A7C210A5F0153DDABFDD6277 /* Pods-RNBoilerPlate60-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = A7C210A5F0153DDABFDD6277 /* Pods-ReactBoilerPlatinum-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -857,17 +857,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "RNBoilerPlate60-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "ReactBoilerPlatinum-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.RNBoilerPlate60-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.ReactBoilerPlatinum-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/RNBoilerPlate60-tvOS.app/RNBoilerPlate60-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ReactBoilerPlatinum-tvOS.app/ReactBoilerPlatinum-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -974,7 +974,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "RNBoilerPlate60Tests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "ReactBoilerPlatinumTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -983,7 +983,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "RNBoilerPlate60" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "ReactBoilerPlatinum" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -992,7 +992,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RNBoilerPlate60-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactBoilerPlatinum-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1001,7 +1001,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RNBoilerPlate60-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "ReactBoilerPlatinum-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1010,7 +1010,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "RNBoilerPlate60" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "ReactBoilerPlatinum" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

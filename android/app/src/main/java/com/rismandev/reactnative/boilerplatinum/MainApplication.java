@@ -1,4 +1,4 @@
-package com.rismandev.rnboilerplate;
+package com.rismandev.reactnative.boilerplatinum;
 
 import android.app.Application;
 import android.content.Context;

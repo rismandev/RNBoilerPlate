@@ -1,4 +1,4 @@
-package com.rismandev.rnboilerplate;
+package com.rismandev.reactnative.boilerplatinum;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "RNBoilerPlate60";
+    return "ReactBoilerPlatinum";
   }
 }
